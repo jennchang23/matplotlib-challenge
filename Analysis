@@ -1,0 +1,8 @@
+# Analysis:
+
+  # 1. Capomulin was the only drug to see a tumor volume reduction over the 45 day treatment period and is the best treatment option out of the four being analyzed.
+
+  # 2. The Infubinol, Ketapril, and Placebo treatments had roughly the same results
+
+     # - The tumor volume actually increased with all three test treatments with Ketapril seeing the highest grwoth (by 57%). Given the growth rate of the tumor volume was higher than even the Placebo treatment, Ketapril is not an effective drug for treating SCC patients.
+     # - All three drugs also had similar survival rates, however, Infubinol had a sharp decrease in survival rate around the 30-35 day mark. This suggests Infubinol is a riskier treatment method, especially for patients with more serious conditions who are likely needing longer treatment periods.
